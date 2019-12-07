@@ -155,11 +155,11 @@ if ( ! class_exists( 'Feature_For_WordPress' ) ) {
 		public function enqueue_script() {
 
 			if ( is_admin() ) {
-				wp_register_script( 'FFWP_admin', FFWP_PLUGIN_URL . 'assets/js/admin.js', 'jquery', FFW_PLUGIN_VERSION, true );
+				wp_register_script( 'FFWP_admin', FFWP_PLUGIN_URL . 'assets/js/admin.js', 'jquery', FFWP_PLUGIN_VERSION, true );
 
 			}
 
-			wp_register_script( 'FFWP_frontend', FFWP_PLUGIN_URL . 'assets/js/frontend.js', 'jquery', FFW_PLUGIN_VERSION, true );
+			wp_register_script( 'FFWP_frontend', FFWP_PLUGIN_URL . 'assets/js/frontend.js', 'jquery', FFWP_PLUGIN_VERSION, true );
 
 			$data = apply_filters(
 				'ffwp_frontend_localize_script',
