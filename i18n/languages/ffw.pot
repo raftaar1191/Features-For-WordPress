@@ -1,0 +1,195 @@
+# Copyright (C) 2019 Features for WooCommerce
+# This file is distributed under the same license as the Features for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Features for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: https://github.com/raftaar1191/features-for-woocommerce/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/functions.php:17
+msgid "Sorting/filtering Coupons"
+msgstr ""
+
+#: includes/functions.php:18
+msgid "Give Admin user option to Sorting/filtering Coupons dashboard"
+msgstr ""
+
+#: includes/functions.php:22
+msgid "Give Admin user option to sort/filter the coupons in coupon dashboard area"
+msgstr ""
+
+#: includes/functions.php:25
+msgid "Enable Hide Coupon Code"
+msgstr ""
+
+#: includes/functions.php:26, includes/functions.php:30
+msgid "Give Admin user option to hide the coupon code"
+msgstr ""
+
+#: includes/functions.php:33
+msgid "Change Quantity on Checkout Page"
+msgstr ""
+
+#: includes/functions.php:34
+msgid "Give user option to update quantity on checkout page"
+msgstr ""
+
+#: includes/functions.php:38
+msgid "Give users option to update quantity on checkout page"
+msgstr ""
+
+#: includes/functions.php:41
+msgid "Remove Product on Checkout Page"
+msgstr ""
+
+#: includes/functions.php:42
+msgid "Give user option to button to remove product on checkout page"
+msgstr ""
+
+#: includes/functions.php:46
+msgid "Give users option to remove product on checkout page"
+msgstr ""
+
+#: includes/functions.php:49
+msgid "Update Product price on the fly"
+msgstr ""
+
+#: includes/functions.php:50
+msgid "Update Product price when user change the product quantity"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Show users exact price when user update product quantity"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "Exclude Product from all the Coupon"
+msgstr ""
+
+#: includes/functions.php:58
+msgid "Create a new tab that give admin user access to add the product that are excluded from all the coupon code"
+msgstr ""
+
+#: includes/functions.php:62
+msgid "Give Admin user interface to Exclude Product"
+msgstr ""
+
+#: includes/functions.php:65
+msgid "Remove Coupon Option from Cart page"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "Remove apply coupon code boc from cart page"
+msgstr ""
+
+#: includes/functions.php:70
+msgid "Hide Apply Coupon from Cart page"
+msgstr ""
+
+#: includes/functions.php:73
+msgid "Remove Coupon Option from Checkout page"
+msgstr ""
+
+#: includes/functions.php:74
+msgid "Remove apply coupon code boc from Checkout page"
+msgstr ""
+
+#: includes/functions.php:78
+msgid "Hide Apply Coupon from Checkout page"
+msgstr ""
+
+#: includes/functions.php:81
+msgid "Enable BuddyPress Account Creation"
+msgstr ""
+
+#: includes/functions.php:82
+msgid "Give Admin user option to enable login like BuddyPress does or you can say Checkout With BuddyPress"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "Give Admin user option to enable login like BuddyPress does"
+msgstr ""
+
+#: includes/settings.php:24
+msgid "Features for WooCommerce"
+msgstr ""
+
+#: includes/ffw_change_quantity_on_checkout/ffw_change_quantity_on_checkout.php:27
+msgid "Something when wrong kindly try after sometime"
+msgstr ""
+
+#: includes/ffw_checkout_with_buddypress/ffw_checkout_with_buddypress.php:71
+msgid "Before you can login, you need to confirm your email address via the email we just sent to you."
+msgstr ""
+
+#: includes/ffw_checkout_with_buddypress/ffw_checkout_with_buddypress.php:147
+msgid "Your username has been automatically generated:"
+msgstr ""
+
+#: includes/ffw_checkout_with_buddypress/ffw_checkout_with_buddypress.php:160
+msgid "Your password has been automatically generated:"
+msgstr ""
+
+#: includes/ffw_checkout_with_buddypress/ffw_checkout_with_buddypress.php:176
+msgid ""
+"\n"
+"Your username has been automatically generated: %s"
+msgstr ""
+
+#: includes/ffw_checkout_with_buddypress/ffw_checkout_with_buddypress.php:187
+msgid ""
+"\n"
+"Your password has been automatically generated: %s"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:49
+msgid "FFM excluded Coupon"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:50
+msgid "Check this box remove this coupon for FFW excluded products list"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:81, includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:82
+msgid "Exclude Product From Coupons"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:103
+msgid "FFW: Exclude Product From Coupons"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:124
+msgid "Select Product"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:131
+msgid "Products"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:139
+msgid "This is an Multiple Dropout select the products that you want to exclusde from all the Coupon code"
+msgstr ""
+
+#: includes/ffw_exclude_product_from_coupon_code/ffw_exclude_product_from_coupon_code.php:147
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/ffw_hide_coupon_code/ffw_hide_coupon_code.php:70
+msgid "Hide Coupon"
+msgstr ""
+
+#: includes/ffw_hide_coupon_code/ffw_hide_coupon_code.php:71
+msgid "Check this box to Hide the Coupon code."
+msgstr ""
+
+#: includes/ffw_hide_coupon_code/ffw_hide_coupon_code.php:92
+msgid "Discount Applied"
+msgstr ""
